@@ -1,0 +1,7 @@
+C:\Users\learner\Desktop\csharpweek3\CarProject2\CarProject2\bin\Debug\CarProject2.exe.config
+C:\Users\learner\Desktop\csharpweek3\CarProject2\CarProject2\bin\Debug\CarProject2.exe
+C:\Users\learner\Desktop\csharpweek3\CarProject2\CarProject2\bin\Debug\CarProject2.pdb
+C:\Users\learner\Desktop\csharpweek3\CarProject2\CarProject2\obj\Debug\CarProject2.csproj.CoreCompileInputs.cache
+C:\Users\learner\Desktop\csharpweek3\CarProject2\CarProject2\obj\Debug\CarProject2.exe
+C:\Users\learner\Desktop\csharpweek3\CarProject2\CarProject2\obj\Debug\CarProject2.pdb
+C:\Users\learner\Desktop\csharpweek3\CarProject2\CarProject2\obj\Debug\CarProject2.csprojAssemblyReference.cache

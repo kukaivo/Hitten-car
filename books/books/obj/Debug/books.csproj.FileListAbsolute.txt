@@ -1,0 +1,7 @@
+C:\Users\learner\Desktop\hitencc\books\books\obj\Debug\books.csprojAssemblyReference.cache
+C:\Users\learner\Desktop\hitencc\books\books\obj\Debug\books.csproj.CoreCompileInputs.cache
+C:\Users\learner\Desktop\hitencc\books\books\bin\Debug\books.exe.config
+C:\Users\learner\Desktop\hitencc\books\books\bin\Debug\books.exe
+C:\Users\learner\Desktop\hitencc\books\books\bin\Debug\books.pdb
+C:\Users\learner\Desktop\hitencc\books\books\obj\Debug\books.exe
+C:\Users\learner\Desktop\hitencc\books\books\obj\Debug\books.pdb

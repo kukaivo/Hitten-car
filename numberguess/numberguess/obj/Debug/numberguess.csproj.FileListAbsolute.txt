@@ -1,0 +1,7 @@
+C:\Users\learner\Desktop\hitencc\numberguess\numberguess\bin\Debug\numberguess.exe.config
+C:\Users\learner\Desktop\hitencc\numberguess\numberguess\bin\Debug\numberguess.exe
+C:\Users\learner\Desktop\hitencc\numberguess\numberguess\bin\Debug\numberguess.pdb
+C:\Users\learner\Desktop\hitencc\numberguess\numberguess\obj\Debug\numberguess.csprojAssemblyReference.cache
+C:\Users\learner\Desktop\hitencc\numberguess\numberguess\obj\Debug\numberguess.csproj.CoreCompileInputs.cache
+C:\Users\learner\Desktop\hitencc\numberguess\numberguess\obj\Debug\numberguess.exe
+C:\Users\learner\Desktop\hitencc\numberguess\numberguess\obj\Debug\numberguess.pdb

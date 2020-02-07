@@ -1,0 +1,7 @@
+C:\Users\learner\Desktop\hitencc\factorial\factorial\bin\Debug\factorial.exe.config
+C:\Users\learner\Desktop\hitencc\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\learner\Desktop\hitencc\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\learner\Desktop\hitencc\factorial\factorial\obj\Debug\factorial.csprojAssemblyReference.cache
+C:\Users\learner\Desktop\hitencc\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\learner\Desktop\hitencc\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\learner\Desktop\hitencc\factorial\factorial\obj\Debug\factorial.pdb
